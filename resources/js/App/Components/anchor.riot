@@ -1,0 +1,18 @@
+<anchor>
+    <a href="{ props.target }">{ props.text }</a>
+
+
+    <style>
+        a {
+            text-decoration: none;
+        }
+    </style>
+
+    <script>
+        export default {
+            onMounted(props) {
+                const { target, text } = props
+            }
+        }
+    </script>
+</anchor>
