@@ -87,7 +87,7 @@ __webpack_require__.r(__webpack_exports__);
     getComponent
   ) {
     return template(
-      '<h1 expr0="expr0"> </h1><ul><li><anchor expr1="expr1" target="https://github.com" text="Github"></anchor></li></ul>',
+      '<h1 expr0="expr0"> </h1><ul><li><anchor expr1="expr1" target="https://github.com/nekoding/laravel-riot" text="Github"></anchor></li></ul>',
       [
         {
           'redundantAttribute': 'expr0',
